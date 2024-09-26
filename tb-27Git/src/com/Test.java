@@ -22,6 +22,11 @@ public class Test
 	{
 		System.out.println("This is M4");
 	}
+
+	public void m5()
+	{
+		System.out.println("This is M5");
+	}
 	
 public static void main(String[] args) 
 {
