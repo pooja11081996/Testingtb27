@@ -22,7 +22,7 @@ public class Test
 	{
 		System.out.println("This is M4");
 	}
-public void Pooja()
+	public void Pooja()
 	{
 		System.out.println("Sir its me Pooja");
 	}
